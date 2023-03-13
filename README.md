@@ -1,6 +1,6 @@
 # fingerprint
 
-A new Flutter project.
+A new Flutter project. this is to create another layer of scurity to the user app
 
 ## Getting Started
 
